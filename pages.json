@@ -1,0 +1,96 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		 {
+			"path": "pages/account/login",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}
+		,{
+			"path": "pages/caigou/index/index",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, {
+			"path": "pages/caigou/purchase/purchase",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, {
+			"path": "pages/caigou/purchaseNote/purchaseNote",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, {
+			"path": "pages/caigou/purchaseNote/detail",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, {
+			"path": "pages/caigou/enquiry/enquiry",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/caigou/user/user",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/caigou/user/forget",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/caigou/user/issue",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/caigou/user/refund",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/caigou/user/refundDetail",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/caigou/user/bill",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "商城",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#F8F8F8"
+	}
+}
